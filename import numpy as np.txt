@@ -1,0 +1,8 @@
+import numpy as np
+import pandas as pd
+imprt matplotlib.pyplot as plt
+import seaborn as sns
+
+from sklearn.datasets import lood_boston
+
+dateset=load_boston()
